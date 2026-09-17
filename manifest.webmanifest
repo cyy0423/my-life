@@ -1,1 +1,17 @@
-{"name":"我的生活","short_name":"我的生活","start_url":"./","display":"standalone","background_color":"#f2f2f7","theme_color":"#f2f2f7","lang":"zh-CN"}
+{
+  "name": "我的生活",
+  "short_name": "我的生活",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./图标.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
